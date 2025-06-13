@@ -15,6 +15,9 @@ Un bot de WhatsApp desarrollado en Python para automatizar el envío y recepció
 
 Consulta [`python-whatsapp-bot/README.md`](python-whatsapp-bot/README.md) para instrucciones de instalación y uso.
 
+> **Basado en:**  
+> [daveebbelaar/python-whatsapp-bot](https://github.com/daveebbelaar/python-whatsapp-bot/tree/main)
+
 ---
 
 ## 2. Orientación y Clasificación de Rostros y Generador de PDF
