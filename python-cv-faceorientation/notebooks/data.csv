@@ -1,0 +1,16 @@
+nombre_archivo,posicion,expresion,nariz,boca,frente,calificacion
+IMG_5375.JPG,NA,NA,NA,NA,NA,0.9
+IMG_5374.JPG,NA,NA,NA,NA,NA,0.88
+IMG_4836.JPG,Perfil derecha,Con dentadura,"[1163,1058]","[1550, 930]","[1550, 730]",0.93
+IMG_4835.JPG,Perfil derecha,Sin dentadura,"[1189,1108]","[800, 630]","[800, 450]",0.95
+IMG_4834.JPG,Girado derecha,Con dentadura,"[924,1030]","[1080, 1400]","[860, 850]",0.88
+IMG_4833.JPG,Girado derecha,Sin dentadura,"[997,949]","[1370, 1150]","[1370, 800]",0.95
+IMG_4831.JPG,Girado izquierda,Con dentadura,"[517, 958]","[540, 680]","[540, 480]",0.92
+IMG_4830.JPG,Girado izquierda,Sin dentadura,"[349, 939]","[820, 760]","[820, 500]",0.92
+IMG_4829.JPG,Girado izquierda,Sin dentadura,"[425, 860]","[300, 540]","[300, 370]",0.92
+IMG_4828.JPG,Perfil izquierda,Con dentadura,"[287, 922]","[170, 510]","[170, 330]",0.92
+IMG_4827.JPG,Perfil izquierda,Sin dentadura,"[269, 861]","[240, 550]","[240, 350]",0.92
+IMG_4826.JPG,Perfil izquierda,Sin dentadura,"[226, 966]","[467, 880]","[467, 700]",0.9
+IMG_4825.JPG,Frente,Con dentadura,"[677, 900]","[1000, 840]","[1000, 540]",0.95
+IMG_4824.JPG,Frente,Sin dentadura,"[693, 852]","[567, 820]","[567, 420]",0.93
+IMG_4823.JPG,Frente,Sin dentadura,"[672, 860]","[1024, 1400]","[1024, 900]",0.95
